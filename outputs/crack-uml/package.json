@@ -10,7 +10,7 @@
     "seed:local": "node scripts/seed-local.mjs"
   },
   "dependencies": {
-    "next": "^14.2.35",
+    "next": "^16.4.3",
     "pg": "^8.23.1",
     "react": "18.3.1",
     "react-dom": "18.3.1",
