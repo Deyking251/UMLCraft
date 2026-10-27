@@ -1,0 +1,18 @@
+# Local Codex/session material
+.agents/
+.aws/
+.codex/
+work/
+
+# Crack UML local/runtime files
+outputs/crack-uml/.data/
+outputs/crack-uml/.env
+outputs/crack-uml/.env.local
+outputs/crack-uml/.env.*.local
+outputs/crack-uml/.next/
+outputs/crack-uml/.next-qa/
+outputs/crack-uml/node_modules/
+
+# Editor and OS files
+.DS_Store
+*.swp
